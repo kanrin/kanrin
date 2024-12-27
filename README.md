@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanrin&show_icons=true)
+![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanrin&show_icons=true&theme=onedark)
 <!--
 **kanrin/kanrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanrin&layout=compact&langs_count=10&bg_color=33,12261E,0D1117 "languages")
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanrin&langs_count=10&theme=onedark)
